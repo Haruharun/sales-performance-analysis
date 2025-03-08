@@ -5,6 +5,9 @@
 
 The project involves creating a comprehensive Sales Dashboard to analyze sales performance, customer behavior, and product demand using SQL and Power BI. The dashboard is designed to provide actionable insights and support data-driven decision-making
 
+## mysql query
+![mysql](https://github.com/Haruharun/sales_Report/blob/67d065fcd3c3836dc5f1f207f407338cc18dcd46/MY%20SQL%20Queries.docx)
+
 ## Tasks Performed
 
  🔺Data Collection: Gathered sales data from multiple sources for analysis.
