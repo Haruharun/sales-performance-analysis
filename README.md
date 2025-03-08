@@ -55,3 +55,5 @@ The project involves creating a comprehensive Sales Dashboard to analyze sales p
 
  🔺Sales by Time: Analysis of sales by days of the week and hours of the day, identifying peak sales times.
 
+![sales Dashboard](https://github.com/Haruharun/sales_Report/blob/d6fec5868d714301fed05a577d9a18a3eadaf5bd/Screenshot%202025-03-08%20133125.png)
+
